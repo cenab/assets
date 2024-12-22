@@ -1,0 +1,40 @@
+<html>
+<head></head>
+<body>
+<div style="font-family: Menlo, monospace; line-height: 1.5; color: #000; display: flex; align-items: center; border-bottom: 1px solid #ccc; padding-bottom: 10px; margin-bottom: 10px;">
+  <!-- Left: Name and Title -->
+  <div style="flex: 1; padding-right: 10px; border-right: 1px solid #ccc;">
+    <strong style="font-size: 16px;">Cenab Batu Bora</strong><br>
+    <span style="font-size: 14px; color: #000;">Software Engineer</span>
+  </div>
+
+  <!-- Right: Contact Information -->
+  <div style="flex: 1; padding-left: 10px;">
+    <a href="mailto:hello@batubora.com" style="text-decoration: none; color: #000;">hello@batubora.com</a><br>
+    <a href="https://batubora.com" style="text-decoration: none; color: #000;">www.batubora.com</a><br>
+    <a href="https://linkedin.com/in/cenab" style="text-decoration: none; color: #000;">LinkedIn</a><br>
+    <a href="https://github.com/cenab" style="text-decoration: none; color: #000;">GitHub</a>
+  </div>
+</div>
+
+<!-- ASCII Art Below -->
+<pre style="margin-top: 10px; font-size: 12px; font-weight: bold; color: #000; font-family: Menlo, monospace; white-space: pre-wrap;">
+                                         __
+                 ,-_                  (`  ).
+                 |-_'-,              (     ).
+                 |-_'-'           _(        '`.
+        _        |-_'/        .=(`(      .     )
+       /;-,_     |-_'        (     (.__.:-`-_.'
+      /-.-;,-,___|'          `(       ) )
+     /;-;-;-;_;_/|\_ _ _ _ _   ` __.:'   )
+        x_( __`|_P_|`-;-;-;,|        `--'
+        |\ \    _||   `-;-;-'
+        | \`   -_|.      '-'
+        | /   /-_| `
+        |/   ,'-_|  \
+        /____|'-_|___\
+ _..,____]__|_\-_'|_[___,.._
+'                          ``'--,..,.     
+</pre>
+</body>
+</html>
